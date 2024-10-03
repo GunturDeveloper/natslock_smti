@@ -1,0 +1,33 @@
+[
+  {
+    "alias": "Locker_1",
+    "name": "Locker 1",
+    "uuid": "005551",
+    "status": "Not Available",
+    "state": false,
+    "justOpen": false,
+    "sensOpen": true,
+    "codeOpen": 0,
+    "expiredOpen": null,
+    "NeedRestart": false,
+    "countdownClose": null,
+    "OnGoing": {
+      "User": {
+        "UUID": 50917432295450800000,
+        "Username": "Sekar Hayu",
+        "Email": "sekarhayu7@gmail.com",
+        "Phone": "6281511184500"
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1727959488594,
+      "lastRequest": 1727960165357,
+      "timestamp": 1727959430224,
+      "expired": null,
+      "timeLeft": "01:02",
+      "duration": "13min 25s",
+      "duration_String": "0month 0d 0h 13min 25s",
+      "duration_Millis": 805711
+    }
+  }
+]

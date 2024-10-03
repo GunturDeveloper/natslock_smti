@@ -1,0 +1,31 @@
+[
+  {
+    "UUID": 11173462894826090000,
+    "Name": "John Doe",
+    "Verified": true,
+    "Username": "johndoe",
+    "Password": "password",
+    "Email": "test@gmail.com",
+    "Phone": "1234567890",
+    "Picture": "https://natslock.my.id/file/profile/default.jpg",
+    "Role": "admin",
+    "Created_At": "2021-01-01T00:00:00",
+    "sessionId": "",
+    "Expired_Session": null
+  },
+  {
+    "UUID": 50917432295450800000,
+    "Name": "Hayu",
+    "Verified": true,
+    "Username": "Sekar Hayu",
+    "Password": "Sekar#123",
+    "Email": "sekarhayu7@gmail.com",
+    "Phone": "6281511184500",
+    "Picture": "https://natslock.my.id/profile/default.jpg",
+    "Role": "user",
+    "CreatedAt": "2024-09-30T11:50:10.156Z",
+    "SessionId": "",
+    "Expired_Session": 1728045600031,
+    "sessionId": "31014ecc-7715-4a41-8d61-0086042245c7"
+  }
+]

@@ -1,0 +1,1642 @@
+[
+  {
+    "UUID": 11173462894826090000,
+    "Name": "John Doe",
+    "Username": "johndoe",
+    "Email": "test@gmail.com",
+    "Phone": "1234567890",
+    "Rent": [],
+    "History": [
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "1234",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "1234",
+        "duration": "1 Hours, 30 Minutes, 0 Seconds"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "27",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "80",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "82",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-12T21:26:46.683Z",
+        "code": "9233",
+        "duration": "1d 8h"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-13T06:04:17.341Z",
+        "code": "6976",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-13T06:04:17.363Z",
+        "code": "2667",
+        "duration": "28s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T22:29:44.913Z",
+        "code": "8866",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-16T22:37:59.663Z",
+        "code": "6895",
+        "duration": "20min 11s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T22:37:59.642Z",
+        "code": "5033",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:00:04.858Z",
+        "code": "98",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:07:21.560Z",
+        "code": "26",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:07:21.560Z",
+        "code": "84",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-16T23:07:21.557Z",
+        "code": "7495",
+        "duration": "33min 19s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T23:41:36.364Z",
+        "code": "3349",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:41:36.387Z",
+        "code": "33",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "8712",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-28T14:15:15.966Z",
+        "code": "7349",
+        "duration": "17min 10s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "5420",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-28T14:15:15.966Z",
+        "code": "4023",
+        "duration": "26min 28s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "1396",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-09-28T14:15:15.969Z",
+        "code": "15",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-28T14:15:15.966Z",
+        "code": "5750",
+        "duration": "39min 5s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "7282",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-28T14:15:15.966Z",
+        "code": "1079",
+        "duration": "50min 23s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "7522",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-09-28T14:15:15.969Z",
+        "code": "78",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-09-28T14:15:15.969Z",
+        "code": "67",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-28T14:15:15.966Z",
+        "code": "2127",
+        "duration": "58min 4s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-28T14:15:15.896Z",
+        "code": "4900",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-30T11:11:16.819Z",
+        "code": "9164",
+        "duration": "1d 20h"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-09-30T11:11:16.786Z",
+        "code": "9775",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-09-30T11:11:16.819Z",
+        "code": "1473",
+        "duration": "8min 40s"
+      }
+    ]
+  },
+  {
+    "UUID": 50917432295450800000,
+    "Name": "Hayu",
+    "Username": "Sekar Hayu",
+    "Email": "sekarhayu7@gmail.com",
+    "Phone": "6281511184500",
+    "Rent": [
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "Time": 1727959488594,
+        "Unlock_Code": "-",
+        "Expired": 0
+      }
+    ],
+    "History": [
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "4822",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "7878",
+        "duration": "7min 41s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "8936",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-01T10:58:59.836Z",
+        "code": "49",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-01T10:58:59.836Z",
+        "code": "59",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "9117",
+        "duration": "27min 24s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "4469",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "1709",
+        "duration": "50min 22s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "2389",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "6088",
+        "duration": "57min 39s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "1772",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-01T10:58:59.836Z",
+        "code": "19",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-01T10:58:59.836Z",
+        "code": "17",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "8482",
+        "duration": "1h 2min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "9589",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-01T10:58:59.836Z",
+        "code": "26",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-01T10:58:59.831Z",
+        "code": "6006",
+        "duration": "1h 13min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-01T10:58:59.804Z",
+        "code": "6249",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1366",
+        "duration": "23h 50min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "9428",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "3408",
+        "duration": "12min 53s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "8530",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "67",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "3234",
+        "duration": "14min 19s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "8814",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "34",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "61",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "6401",
+        "duration": "16min 47s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "3913",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "12",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1724",
+        "duration": "21min 35s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "5369",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "2228",
+        "duration": "1h 23min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "4446",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "85",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1368",
+        "duration": "1h 27min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "5744",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "22",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "74",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "6308",
+        "duration": "1h 30min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "4656",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1588",
+        "duration": "1h 37min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "2141",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "2021",
+        "duration": "1h 38min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "7473",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "6868",
+        "duration": "1h 39min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "3473",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "4232",
+        "duration": "1h 40min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "1894",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "8225",
+        "duration": "1h 47min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "4058",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "39",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "8927",
+        "duration": "1h 50min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "7995",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "6432",
+        "duration": "1h 52min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "7655",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "9838",
+        "duration": "1h 53min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "3296",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1120",
+        "duration": "1h 57min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "8179",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "34",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "16",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "4230",
+        "duration": "1h 59min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "4879",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "68",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "75",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "17",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "8754",
+        "duration": "2h 0min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "4948",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "61",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "23",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "59",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "30",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "17",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "62",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "7993",
+        "duration": "2h 3min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "8410",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "7910",
+        "duration": "2h 4min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "8286",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "2396",
+        "duration": "2h 4min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "9832",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1988",
+        "duration": "2h 5min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "2144",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "7243",
+        "duration": "2h 6min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "5082",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "3677",
+        "duration": "2h 7min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "3822",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "12",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T10:37:28.233Z",
+        "code": "84",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "1352",
+        "duration": "2h 9min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "2872",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "9509",
+        "duration": "2h 12min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T10:37:28.187Z",
+        "code": "5528",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T10:37:28.229Z",
+        "code": "5797",
+        "duration": "2h 12min"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T12:52:59.658Z",
+        "code": "5564",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T12:52:59.773Z",
+        "code": "19",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:03:51.831Z",
+        "code": "38",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:04:53.150Z",
+        "code": "56",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:12:59.425Z",
+        "code": "17",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T13:12:59.421Z",
+        "code": "5247",
+        "duration": "21min 54s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T13:12:59.387Z",
+        "code": "2932",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:12:59.425Z",
+        "code": "16",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:17:05.627Z",
+        "code": "17",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:17:05.627Z",
+        "code": "72",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T13:17:05.624Z",
+        "code": "6177",
+        "duration": "7min 35s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-02T13:22:10.804Z",
+        "code": "1287",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-10-02T13:22:10.835Z",
+        "code": "22",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-02T13:22:10.831Z",
+        "code": "5342",
+        "duration": "1min 20s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T06:36:07.926Z",
+        "code": "2369",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T06:59:35.271Z",
+        "code": "3742",
+        "duration": "23min 39s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:37:24.748Z",
+        "code": "2836",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:40:11.443Z",
+        "code": "4284",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:42:13.882Z",
+        "code": "8078",
+        "duration": "2min 15s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:45:12.902Z",
+        "code": "7597",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:44:54.510Z",
+        "code": "6075",
+        "duration": "33s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:47:38.072Z",
+        "code": "4246",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:47:05.498Z",
+        "code": "7198",
+        "duration": "1min 29s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:49:21.609Z",
+        "code": "4277",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:47:05.498Z",
+        "code": "2219",
+        "duration": "1min 12s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:53:14.997Z",
+        "code": "3558",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:52:43.383Z",
+        "code": "1935",
+        "duration": "32s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T07:56:28.526Z",
+        "code": "1413",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T07:54:56.367Z",
+        "code": "4022",
+        "duration": "22s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:01:44.675Z",
+        "code": "3527",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:03:36.762Z",
+        "code": "8316",
+        "duration": "2min 14s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:04:23.971Z",
+        "code": "2039",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:08:05.295Z",
+        "code": "8706",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:07:44.796Z",
+        "code": "4887",
+        "duration": "1min 6s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:09:40.448Z",
+        "code": "9738",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:14:03.907Z",
+        "code": "2861",
+        "duration": "4min 39s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:15:22.995Z",
+        "code": "5493",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:15:08.621Z",
+        "code": "1831",
+        "duration": "30s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:16:09.134Z",
+        "code": "6459",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:15:08.621Z",
+        "code": "2436",
+        "duration": "1min 32s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:19:53.242Z",
+        "code": "3831",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:19:41.949Z",
+        "code": "5337",
+        "duration": "56s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:21:58.236Z",
+        "code": "2251",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:27:02.966Z",
+        "code": "1571",
+        "duration": "5min 21s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:28:17.623Z",
+        "code": "4346",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:28:06.214Z",
+        "code": "9359",
+        "duration": "1min 5s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T08:34:07.417Z",
+        "code": "4090",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T08:38:55.522Z",
+        "code": "8271",
+        "duration": "4min 47s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T12:40:27.311Z",
+        "code": "9842",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-10-03T12:41:45.731Z",
+        "code": "4217",
+        "duration": "1min 18s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-10-03T12:44:48.594Z",
+        "code": "1992",
+        "duration": "-"
+      }
+    ]
+  }
+]

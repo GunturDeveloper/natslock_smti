@@ -1,0 +1,20 @@
+[
+  {
+    "UUID": 11173462894826090000,
+    "Name": "John Doe",
+    "Email": "test@gmail.com",
+    "Phone": "1234567890",
+    "Verified": true,
+    "Otp": [],
+    "Created_At": "2020-01-01T00:00:00Z"
+  },
+  {
+    "UUID": 50917432295450800000,
+    "Name": "Hayu",
+    "Email": "sekarhayu7@gmail.com",
+    "Phone": "6281511184500",
+    "Verified": true,
+    "Otp": [],
+    "Created_At": "2024-09-30T11:50:10.156Z"
+  }
+]

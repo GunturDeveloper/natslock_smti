@@ -1,0 +1,44 @@
+{
+  "Server": {
+    "Port": 8080,
+    "host_local": "http://localhost",
+    "host_production": "https://natslock.my.id"
+  },
+  "RedirectUrl": "https://natslock.site/",
+  "EmailOTP": {
+    "isProduction": true,
+    "LocalEmail": {
+      "service": "Gmail",
+      "user": "xxx@gmail.com",
+      "pass": "xxxx xxxx xxxx xxxx"
+    },
+    "ProductionEmail": {
+      "service": "mx3.mailspace.id",
+      "port": 465,
+      "secure": true,
+      "user": "noreply@lockify.space",
+      "pass": "@Sandiku197"
+    }
+  },
+  "WhatsappOTP": {
+    "url_api": "https://wapi.natslock.my.id/api/v1/"
+  },
+  "Midtrans": {
+    "isProduction": false,
+    "Production": {
+      "MerchantID": "XXXXXXXXX",
+      "clientKey": "Mid-client-XXXXXXXXXXXXXXu",
+      "serverKey": "Mid-server-XXXXXXXXXXXX"
+    },
+    "Sandbox": {
+      "MerchantID": "XXXXXXXXX",
+      "clientKey": "SB-Mid-client-XXXXXXXXXXXXXXXx",
+      "serverKey": "SB-Mid-server-xxxxxxxxxxxxxxxxxxxxx"
+    },
+    "Sandbox_2": {
+      "MerchantID": "XXXXXXXXX",
+      "clientKey": "SB-Mid-client-XXXXXXXXXXXXXXXx ",
+      "serverKey": "SB-Mid-server-Xxxxxxxxxxxxxxxx"
+    }
+  }
+}
