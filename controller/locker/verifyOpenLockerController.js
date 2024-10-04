@@ -287,11 +287,11 @@ router.post("/locker/verify/open", async (req, res) => {
   // Membuka locker
   locker.OnGoing.stats = false;
   locker.justOpen = true;
-  locker.expiredOpen = currentDate + 20000; // 30 detik dari sekarang
+  locker.expiredOpen = currentDate + 15000; // 30 detik dari sekarang
   locker.OnGoing.expired = 0;
   locker.OnGoing.code = "-";
   locker.codeOpen = 2;
-  locker.countdownClose = 20000;
+  locker.countdownClose = 15000;
 
   fs.writeFileSync(lockerdb, JSON.stringify(lockerData, null, 2));
 
