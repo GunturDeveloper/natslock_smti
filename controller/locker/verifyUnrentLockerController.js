@@ -302,7 +302,7 @@ router.post("/locker/verify/unrent", async (req, res) => {
   //change locker status to false
   locker.status = "Available";
   locker.state = true;
-  locker.countdownClose = 20000;
+  locker.countdownClose = 15000;
 
   locker.OnGoing.stats = false;
   locker.OnGoing.expired = 0;
@@ -320,7 +320,7 @@ router.post("/locker/verify/unrent", async (req, res) => {
   fs.writeFileSync(lockerdb, JSON.stringify(lockerData, null, 2));
 
   try {
-    locker.expiredOpen = currentDate.getTime() + 30000;  
+    locker.expiredOpen = currentDate.getTime() + 15000;  
     fs.writeFileSync(lockerdb, JSON.stringify(lockerData, null, 2));
   } catch (error) {
     console.error("Error writing locker database:", err.message);
