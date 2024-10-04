@@ -308,8 +308,8 @@ router.post("/locker/verify/rent", async (req, res) => {
   locker.OnGoing.rentTime = currentDate.getTime();
   locker.justOpen = true;
   locker.codeOpen = 1;
-  locker.countdownClose = 20000;
-  locker.expiredOpen = currentDate.getTime() + 20000;  
+  locker.countdownClose = 15000;
+  locker.expiredOpen = currentDate.getTime() + 15000;  
 
   //wrote to locker db
   fs.writeFileSync(lockerdb, JSON.stringify(lockerData, null, 2));
